@@ -1,0 +1,134 @@
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'History of Magic']: 98.5416666666666%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Muggle Studies', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies']: 97.91666666666677%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Muggle Studies', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes']: 98.74999999999983%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination']: 97.49999999999987%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Divination', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes']: 98.12500000000017%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Ancient Runes']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Ancient Runes'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts']: 97.91666666666677%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Defense Against the Dark Arts', 'Ancient Runes']: 98.12500000000017%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Defense Against the Dark Arts', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Ancient Runes']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Ancient Runes']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Ancient Runes'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Herbology']: 96.45833333333336%
+['Birthday', 'Best Hand', 'Arithmancy', 'Astronomy', 'Ancient Runes']: 96.875%
+['Birthday', 'Best Hand', 'Arithmancy', 'Herbology', 'Ancient Runes']: 97.29166666666664%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Ancient Runes']: 98.95833333333323%
+['Birthday', 'Arithmancy', 'Astronomy', 'Herbology', 'Ancient Runes']: 98.95833333333323%
+['Best Hand', 'Arithmancy', 'Astronomy', 'Herbology', 'Ancient Runes']: 98.95833333333323%
+Best combination: ('Birthday', 'Best Hand', 'Astronomy', 'Herbology', 'Ancient Runes'), Score: 98.95833333333323%
+['Birthday', 'Best Hand', 'Astronomy', 'Herbology']: 96.66666666666676%
+['Birthday', 'Best Hand', 'Astronomy', 'Ancient Runes']: 96.875%
+['Birthday', 'Best Hand', 'Herbology', 'Ancient Runes']: 97.29166666666664%
+['Birthday', 'Astronomy', 'Herbology', 'Ancient Runes']: 98.95833333333323%
+['Best Hand', 'Astronomy', 'Herbology', 'Ancient Runes']: 98.95833333333323%
+Best combination: ('Birthday', 'Astronomy', 'Herbology', 'Ancient Runes'), Score: 98.95833333333323%
+['Birthday', 'Astronomy', 'Herbology']: 96.45833333333336%
+['Birthday', 'Astronomy', 'Ancient Runes']: 97.08333333333323%
+['Birthday', 'Herbology', 'Ancient Runes']: 97.29166666666664%
+['Astronomy', 'Herbology', 'Ancient Runes']: 98.95833333333323%
+Best combination: ('Astronomy', 'Herbology', 'Ancient Runes'), Score: 98.95833333333323%
+['Astronomy', 'Herbology']: 96.45833333333336%
+['Astronomy', 'Ancient Runes']: 96.45833333333336%
+['Herbology', 'Ancient Runes']: 97.49999999999987%
+Best combination: ('Herbology', 'Ancient Runes'), Score: 97.49999999999987%
+['Herbology']: 52.08333333333339%
+['Ancient Runes']: 63.1250000000001%
+Best combination: ('Ancient Runes',), Score: 63.1250000000001%
