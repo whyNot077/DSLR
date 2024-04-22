@@ -3,16 +3,17 @@ from preprocessing import MinMaxScaler
 from linear_model import LogisticRegression
 from metrics import accuracy_score
 
-
+# python tool/lr_test.py
 def load_data(filepath):
     data = pd.read_csv(filepath)
     y = data['Hogwarts House'].to_numpy()
     data['Astronomy'] = data['Astronomy'] \
         .fillna(-100 * data['Defense Against the Dark Arts'])
-    X = data[['Astronomy', 'Herbology', 'Divination',
-              'Muggle Studies', 'Potions', 'Flying']]
-    return (X, y)
+    X = data[['Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Potions', 'Flying']]
+    # X = data[['Astronomy', 'Herbology', 'Ancient Runes']]
+    # X = data.drop(['Hogwarts House', 'Index', 'First Name', 'Last Name', 'Birthday', 'Best Hand'], axis=1)
 
+    return (X, y)
 
 X_train, y_train = load_data('dataset_train.csv')
 X_test, y_test = load_data('dataset_test.csv')

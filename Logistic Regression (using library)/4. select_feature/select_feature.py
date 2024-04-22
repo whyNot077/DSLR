@@ -44,24 +44,24 @@ model = LogisticRegression()
 scores = np.zeros(data.shape[1] - 1)
 count = np.zeros(data.shape[1] - 1)
 
-# for n_features in range(1, data.shape[1]) :
-#     for i in range(4):
-#         sfs = SequentialFeatureSelector(model, n_features_to_select=n_features, n_jobs=-1)
-#         sfs.fit(X_train, Y_train[target_name[i]])  
-#         f_mask = sfs.support_
-#         model.fit(X_train[:, f_mask], Y_train[target_name[i]]) 
-#         scores[n_features - 1] += model.score(X_train[:, f_mask], Y_train[target_name[i]])
-#         count[n_features - 1] += 1
+for n_features in range(1, data.shape[1]) :
+    for i in range(4):
+        sfs = SequentialFeatureSelector(model, n_features_to_select=n_features, n_jobs=-1)
+        sfs.fit(X_train, Y_train[target_name[i]])  
+        f_mask = sfs.support_
+        model.fit(X_train[:, f_mask], Y_train[target_name[i]]) 
+        scores[n_features - 1] += model.score(X_train[:, f_mask], Y_train[target_name[i]])
+        count[n_features - 1] += 1
 
-# average_scores = scores / count
+average_scores = scores / count
 
-# plt.plot(range(1, data.shape[1]), average_scores, marker='o')
-# plt.ylim([0.7, 1.02])
-# plt.ylabel('Accuracy')
-# plt.xlabel('Number of Features')
-# plt.grid()
-# plt.tight_layout()
-# plt.show()
+plt.plot(range(1, data.shape[1]), average_scores, marker='o')
+plt.ylim([0.7, 1.02])
+plt.ylabel('Accuracy')
+plt.xlabel('Number of Features')
+plt.grid()
+plt.tight_layout()
+plt.show()
 
 for i in range(4):
     sfs = SequentialFeatureSelector(model, n_features_to_select=7, n_jobs=-1)
