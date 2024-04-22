@@ -9,9 +9,9 @@ def load_data(filepath):
     y = data['Hogwarts House'].to_numpy()
     data['Astronomy'] = data['Astronomy'] \
         .fillna(-100 * data['Defense Against the Dark Arts'])
-    X = data[['Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Potions', 'Flying']]
+    # X = data[['Astronomy', 'Herbology', 'Divination', 'Muggle Studies', 'Potions', 'Flying']]
     # X = data[['Astronomy', 'Herbology', 'Ancient Runes']]
-    # X = data.drop(['Hogwarts House', 'Index', 'First Name', 'Last Name', 'Birthday', 'Best Hand'], axis=1)
+    X = data.drop(['Hogwarts House', 'Index', 'First Name', 'Last Name', 'Birthday', 'Best Hand'], axis=1)
 
     return (X, y)
 
