@@ -1,7 +1,6 @@
 import array
 from functools import reduce
 import pandas as pd
-import numpy as np
 import math
 
 def ft_mean(x):
