@@ -18,12 +18,13 @@ def ft_percentile(x, p):
     interpolation = (sorted_x[higher] - sorted_x[lower]) * (pos - lower)
     return sorted_x[lower] + interpolation
 
-# pandas var : 불편분산
-def ft_var(x: list[int]) -> float:
+def ft_var(x: list[float]) -> float:
+    if len(x) < 2:
+        return float('nan')
     mean = ft_mean(x)
-    deviation = x - mean
-    variance = ft_mean(deviation ** 2)
-    return variance
+    deviation = [xi - mean for xi in x]
+    variance = ft_mean([di ** 2 for di in deviation])
+    return variance * len(x) / (len(x) - 1)
 
 def ft_std(num_list: list[int]) -> float:
     return ft_var(num_list) ** 0.5

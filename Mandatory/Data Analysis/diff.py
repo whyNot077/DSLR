@@ -2,7 +2,7 @@ import sys
 import pandas as pd
 import ft_statistics as stat
 
-# python describe.py dataset_train.csv
+# python diff.py dataset_train.csv > b
 # df = pd.DataFrame(data)
 # describe_output = df.describe()
 
