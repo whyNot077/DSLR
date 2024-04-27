@@ -11,7 +11,7 @@ import numpy as np
 # python histogram.py dataset_train.csv
 # Which Hogwarts course has a homogeneous score distribution between all four houses?
 def show_histograms(data):
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 8))
     colors = ['Lightskyblue', 'Darkseagreen', 'Wheat']
     bins = np.arange(-4, 5, 1)
 
