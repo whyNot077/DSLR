@@ -3,11 +3,6 @@ import pandas as pd
 import ft_statistics as stat
 import matplotlib.pyplot as plt
 import sys
-import pandas as pd
-import ft_statistics as stat
-import matplotlib.pyplot as plt
-import numpy as np
-
 # python histogram.py dataset_train.csv
 # Which Hogwarts course has a homogeneous score distribution between all four houses?
 def show_histograms(df):
