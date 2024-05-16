@@ -33,6 +33,7 @@ def show_box_plot(data):
         ax.set_title(f'Box Plot of {column}')
 
     # Turn off any unused axes
+        
     for j in range(i + 1, rows * columns_per_row):
         axes[j // columns_per_row][j % columns_per_row].axis('off')
 

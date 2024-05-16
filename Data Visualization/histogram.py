@@ -2,23 +2,26 @@ import sys
 import pandas as pd
 import ft_statistics as stat
 import matplotlib.pyplot as plt
-import sys
+import numpy as np
+
 # python histogram.py dataset_train.csv
 # Which Hogwarts course has a homogeneous score distribution between all four houses?
+
 def show_histograms(df):
     plt.figure(figsize=(10, 8))
     colors = ['Lightskyblue', 'Darkseagreen', 'Wheat']
     bins = np.arange(-4, 5, 1)
 
-    for idx, (title, column_data) in enumerate(df.items()):
-        standardized_data = (column_data - stat.ft_mean(column_data)) / stat.ft_std(column_data)
-        plt.hist(standardized_data, bins=bins, alpha=0.5, color=colors[idx % len(colors)], label=title)
+    for idx, column in enumerate(df.columns):
+        standardized_data = (df[column] - stat.ft_mean(df[column])) / stat.ft_std(df[column])
+        plt.hist(standardized_data, bins=bins, alpha=0.5, color=colors[idx % len(colors)], label=column)
 
     plt.title('Standard Normal Distribution Histograms')
     plt.xlabel('Standard Deviations (σ)')
     plt.ylabel('Frequency')
     plt.legend()
     plt.show()
+
 
 def show_histograms_by_house(df, course):
     plt.figure(figsize=(10, 8))
@@ -35,6 +38,7 @@ def show_histograms_by_house(df, course):
     plt.legend()
     plt.show()
 
+
 def main():
     if len(sys.argv) != 2:
         print("[Usage] histogram.py dataset_train.csv")
@@ -43,19 +47,20 @@ def main():
     csv_file = sys.argv[1]
     df = pd.read_csv(csv_file)
 
-    # Select numeric colums
-    numeric_columns = df.select_dtypes(include=['int', 'float'])
-    numeric_columns = numeric_columns.drop('Index', axis=1, errors='ignore')
+    # Select numeric columns
+    numeric_columns = df.select_dtypes(include=['int', 'float']).drop('Index', axis=1, errors='ignore')
 
-    # Get standandard diviations
-    std_devs = {column: stat.ft_std(numeric_columns[column].dropna()) for column in numeric_columns.columns}
-    most_uniform_courses = sorted(std_devs, key=std_devs.get)[:3]
+    # Get standard deviations
+    std_devs = numeric_columns.apply(lambda col: stat.ft_std(col.dropna()))
 
-    # Select the three smallest standard diviation columns.
-    selected_data = {course: numeric_columns[course] for course in most_uniform_courses}
+    # Select the three smallest standard deviation columns
+    most_uniform_courses = std_devs.nsmallest(3).index.tolist()
+
+    # Select data for the most uniform courses
+    selected_data = numeric_columns[most_uniform_courses]
     show_histograms(selected_data)
 
-    # Select the course with the smallest standard deviation and show its scores by house.
+    # Select the course with the smallest standard deviation and show its scores by house
     smallest_std_course = most_uniform_courses[0]
     show_histograms_by_house(df, smallest_std_course)
 
