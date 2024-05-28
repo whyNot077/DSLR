@@ -1,17 +1,25 @@
 import sys
 import pandas as pd
 import numpy as np
-import ft_statistics as stat
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 # From this visualization, what features are you going to use for your logistic regression?
 # python Data\ Visualization/pair_plot.py dataset_train.csv
-def show_pair_plot(data):
-    # Set style and size for the plots
+def show_pair_plot(data, name):
+    # Set style for the plots
     sns.set_theme(style="whitegrid")
-    plt.figure(figsize=(16, 16), num='what features are you going to use for your logistic regression?')
+
+    # Calculate dynamic figure size based on the number of features
+    num_features = len(data.columns) - 1  # Excluding 'Hogwarts House'
+    size_factor = 2
+    min_size = 12
+    max_size = 24
+    figsize = min(max(size_factor * num_features, min_size), max_size)
+    
+    plt.figure(figsize=(figsize, figsize), num='what features are you going to use for your logistic regression?')
     plt.suptitle('what features are you going to use for your logistic regression?', fontsize=16)
+    
     # Define color palette for Hogwarts Houses
     house_colors = {
         "Gryffindor": "Pink",
@@ -39,11 +47,11 @@ def show_pair_plot(data):
             ax.yaxis.labelpad = 90
 
     # Adjust layout to make room for rotated labels
-    plt.subplots_adjust(left=0.09, bottom=0.05)
+    plt.subplots_adjust(left=0.19, bottom=0.15)
 
     # Save the plot as a file
-    plt.savefig("hogwarts_pairplot.png", format="png", dpi=300)
-    print("Pair plot saved as 'hogwarts_pairplot.png'.")
+    plt.savefig(name, format="png", dpi=300)
+    print(f"Pair plot saved as {name}.png")
 
 
 def main():
@@ -56,8 +64,12 @@ def main():
     numeric_columns = data.select_dtypes(include=["number"])
     numeric_columns = numeric_columns.drop("Index", axis=1, errors="ignore")
     data = pd.concat([data["Hogwarts House"], numeric_columns], axis=1)
-    # print(data)
-    show_pair_plot(data)
+    
+    # Select the features to use for plotting
+    show_pair_plot(data, 'pairplot.png')
+    X = data[['Astronomy', 'Herbology', 'Divination',
+              'Muggle Studies', 'Potions', 'Flying', 'Hogwarts House']]
+    show_pair_plot(X, 'choosed.png')
 
 
 if __name__ == "__main__":
