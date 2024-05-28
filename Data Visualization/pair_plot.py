@@ -5,14 +5,13 @@ import ft_statistics as stat
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 # From this visualization, what features are you going to use for your logistic regression?
-# python pair_plot.py dataset_train.csv
+# python Data\ Visualization/pair_plot.py dataset_train.csv
 def show_pair_plot(data):
     # Set style and size for the plots
     sns.set_theme(style="whitegrid")
-    plt.figure(figsize=(16, 16))
-
+    plt.figure(figsize=(16, 16), num='what features are you going to use for your logistic regression?')
+    plt.suptitle('what features are you going to use for your logistic regression?', fontsize=16)
     # Define color palette for Hogwarts Houses
     house_colors = {
         "Gryffindor": "Pink",
@@ -28,7 +27,7 @@ def show_pair_plot(data):
         palette=house_colors,
         diag_kind="hist",
         markers="o",
-        plot_kws={"alpha": 0.6, "s": 30, "edgecolor": "k"},
+        plot_kws={"alpha": 0.6, "s": 30},
         diag_kws={"alpha": 0.7},
     )
 

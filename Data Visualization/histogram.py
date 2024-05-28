@@ -4,32 +4,8 @@ import ft_statistics as stat
 import matplotlib.pyplot as plt
 import numpy as np
 
-# python histogram.py dataset_train.csv
+# python Data\ Visualization/histogram.py dataset_train.csv
 # Which Hogwarts course has a homogeneous score distribution between all four houses?
-
-
-def show_histograms(df):
-    plt.figure(figsize=(10, 8))
-    colors = ["Lightskyblue", "Darkseagreen", "Wheat"]
-    bins = np.arange(-4, 5, 1)
-
-    for idx, column in enumerate(df.columns):
-        standardized_data = (df[column] - stat.ft_mean(df[column])) / stat.ft_std(
-            df[column]
-        )
-        plt.hist(
-            standardized_data,
-            bins=bins,
-            alpha=0.5,
-            color=colors[idx % len(colors)],
-            label=column,
-        )
-
-    plt.title("Standard Normal Distribution Histograms")
-    plt.xlabel("Standard Deviations (σ)")
-    plt.ylabel("Frequency")
-    plt.legend()
-    plt.show()
 
 
 def show_histograms_by_house(df, course):
@@ -72,10 +48,6 @@ def main():
 
     # Select the three smallest standard deviation columns
     most_uniform_courses = std_devs.nsmallest(3).index.tolist()
-
-    # Select data for the most uniform courses
-    selected_data = numeric_columns[most_uniform_courses]
-    show_histograms(selected_data)
 
     # Select the course with the smallest standard deviation and show its scores by house
     smallest_std_course = most_uniform_courses[0]
