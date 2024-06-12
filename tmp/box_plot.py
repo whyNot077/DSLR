@@ -14,11 +14,9 @@ def show_box_plot(data):
         "Hufflepuff": "Wheat",
     }
 
-    # Determine the number of numeric columns (excluding 'Hogwarts House')
     numeric_columns = [col for col in data.columns if col != "Hogwarts House"]
     num_columns = len(numeric_columns)
 
-    # Calculate number of rows and columns for the subplots
     columns_per_row = 4
     rows = (num_columns + columns_per_row - 1) // columns_per_row
 
@@ -26,7 +24,6 @@ def show_box_plot(data):
         rows, columns_per_row, figsize=(20, 5 * rows), squeeze=False
     )
 
-    # Iterate through numeric columns and create a box plot for each
     for i, column in enumerate(numeric_columns):
         row = i // columns_per_row
         col = i % columns_per_row
@@ -42,12 +39,10 @@ def show_box_plot(data):
         )
         ax.set_title(f"Box Plot of {column}")
 
-    # Turn off any unused axes
-
     for j in range(i + 1, rows * columns_per_row):
         axes[j // columns_per_row][j % columns_per_row].axis("off")
 
-    plt.tight_layout()  # Adjust layout to prevent overlap
+    plt.tight_layout()
     plt.savefig("hogwarts_boxplot.png", format="png", dpi=300)
     print("Box plot saved as 'hogwarts_boxplot.png'.")
 
